@@ -1,0 +1,12 @@
+
+    User visits URL https://studies.cs.helsinki.fi/exampleapp/spa
+    Browser sends HTTP GET request to server for the HTML file at that URL.
+    Server sends HTML file back to browser.
+    Browser renders HTML file, which includes a reference to the JavaScript file spa.js.
+    Browser sends HTTP GET request to server for the JavaScript file spa.js.
+    Server sends JavaScript file back to browser.
+    Browser executes JavaScript file.
+    JavaScript code makes an HTTP GET request to server for the notes data at URL https://studies.cs.helsinki.fi/exampleapp/data.json.
+    Server sends notes data back to browser.
+    JavaScript code parses notes data and renders notes on the page.
+

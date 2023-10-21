@@ -1,0 +1,8 @@
+
+    User clicks on "New Note" button.
+    JavaScript code creates a new note object.
+    JavaScript code makes an HTTP POST request to server for the new note data.
+    Server stores new note data in database.
+    Server sends response back to browser.
+    JavaScript code updates the notes on the page.
+
